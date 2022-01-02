@@ -1,0 +1,3 @@
+pygoogletranslation
+python-telegram-bot
+gtts
